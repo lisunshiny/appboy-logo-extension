@@ -17,7 +17,7 @@ After:
 3. Check the `Developer Mode` checkbox
 4. Click `Load unpacked extensions...`
 5. Use the `appboy-logo-extension` folder you just cloned.
-6. Celebrate! 🎉
+6. 🎉 !
 
 **Note:** All extensions add something to your Chrome nav bar, which you can immediately hide by right-clicking and pressing `Hide in Chrome Menu`.
 
