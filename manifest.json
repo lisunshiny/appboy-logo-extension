@@ -1,8 +1,8 @@
 {
-"name":"White Appboy Logo Color",
-"description":"cuz i'm ocd",
-"version":"1.0",
-"manifest_version":2,
+"name": "Gmail Appboy Logo Color Changer",
+"description": "Ahhhhh, so much better.",
+"version": "1.0",
+"manifest_version": 2,
 "content_scripts": [
     {
       "matches": ["https://mail.google.com/*"],
